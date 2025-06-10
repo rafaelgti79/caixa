@@ -8,7 +8,7 @@ import Home from './pages/Home/home.jsx';
 
 const router = createBrowserRouter([
   {
-    path: "/caixa",
+    path: "/",
     element: <App />,
     children:[
       {
